@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from sklearn import linear_model
+# from sklearn import linear_model
 import joblib
 
 st.title('Predict Salary')
